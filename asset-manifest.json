@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "https://hahieump.github.io/WEBTHOITRANG/static/css/main.ba3df099.chunk.css",
+    "main.js": "https://hahieump.github.io/WEBTHOITRANG/static/js/main.c47b33ba.chunk.js",
+    "main.js.map": "https://hahieump.github.io/WEBTHOITRANG/static/js/main.c47b33ba.chunk.js.map",
+    "runtime-main.js": "https://hahieump.github.io/WEBTHOITRANG/static/js/runtime-main.0583823a.js",
+    "runtime-main.js.map": "https://hahieump.github.io/WEBTHOITRANG/static/js/runtime-main.0583823a.js.map",
+    "static/css/2.3071e934.chunk.css": "https://hahieump.github.io/WEBTHOITRANG/static/css/2.3071e934.chunk.css",
+    "static/js/2.5e2be38d.chunk.js": "https://hahieump.github.io/WEBTHOITRANG/static/js/2.5e2be38d.chunk.js",
+    "static/js/2.5e2be38d.chunk.js.map": "https://hahieump.github.io/WEBTHOITRANG/static/js/2.5e2be38d.chunk.js.map",
+    "static/js/3.5b4ec036.chunk.js": "https://hahieump.github.io/WEBTHOITRANG/static/js/3.5b4ec036.chunk.js",
+    "static/js/3.5b4ec036.chunk.js.map": "https://hahieump.github.io/WEBTHOITRANG/static/js/3.5b4ec036.chunk.js.map",
+    "index.html": "https://hahieump.github.io/WEBTHOITRANG/index.html",
+    "static/css/2.3071e934.chunk.css.map": "https://hahieump.github.io/WEBTHOITRANG/static/css/2.3071e934.chunk.css.map",
+    "static/css/main.ba3df099.chunk.css.map": "https://hahieump.github.io/WEBTHOITRANG/static/css/main.ba3df099.chunk.css.map",
+    "static/js/2.5e2be38d.chunk.js.LICENSE.txt": "https://hahieump.github.io/WEBTHOITRANG/static/js/2.5e2be38d.chunk.js.LICENSE.txt",
+    "static/media/applyVoucher.191a6d60.jfif": "https://hahieump.github.io/WEBTHOITRANG/static/media/applyVoucher.191a6d60.jfif",
+    "static/media/banner-voucher.3f7da595.jfif": "https://hahieump.github.io/WEBTHOITRANG/static/media/banner-voucher.3f7da595.jfif",
+    "static/media/slick-theme.css": "https://hahieump.github.io/WEBTHOITRANG/static/media/slick.c94f7671.ttf",
+    "static/media/voucher-all.b8ad6cbd.jfif": "https://hahieump.github.io/WEBTHOITRANG/static/media/voucher-all.b8ad6cbd.jfif",
+    "static/media/voucher-today.2ae3f207.png": "https://hahieump.github.io/WEBTHOITRANG/static/media/voucher-today.2ae3f207.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0583823a.js",
+    "static/css/2.3071e934.chunk.css",
+    "static/js/2.5e2be38d.chunk.js",
+    "static/css/main.ba3df099.chunk.css",
+    "static/js/main.c47b33ba.chunk.js"
+  ]
+}
