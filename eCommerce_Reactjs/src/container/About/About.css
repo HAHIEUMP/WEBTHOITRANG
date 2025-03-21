@@ -1,0 +1,353 @@
+/* About.css */
+.about-section {
+  padding: 80px 0;
+  color: #333;
+}
+
+/* Banner giới thiệu */
+.about-banner {
+  text-align: center;
+  margin-bottom: 60px;
+  padding: 60px 20px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  border-left: 5px solid #71cd14;
+}
+
+.about-banner h1 {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.about-banner p {
+  font-size: 18px;
+  color: #666;
+}
+
+/* Giới thiệu về công ty */
+.about-intro {
+  margin-bottom: 60px;
+}
+
+.about-content h2 {
+  font-size: 28px;
+  margin-bottom: 25px;
+  position: relative;
+  padding-bottom: 15px;
+  color: #333;
+}
+
+.about-content h2:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 70px;
+  height: 3px;
+  background-color: #71cd14;
+}
+
+.about-content .highlight {
+  font-size: 18px;
+  font-weight: 500;
+  color: #555;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.about-content p {
+  font-size: 16px;
+  line-height: 1.8;
+  margin-bottom: 15px;
+  color: #666;
+}
+
+.about-image img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+/* Tầm nhìn & Sứ mệnh */
+.vision-mission {
+  margin-bottom: 60px;
+}
+
+.vision-box, .mission-box {
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  background-color: #f8f9fa;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+  height: 100%;
+}
+
+.vision-box {
+  border-left: 4px solid #71cd14;
+}
+
+.mission-box {
+  border-left: 4px solid #71cd14;
+}
+
+.vision-box h3, .mission-box h3 {
+  font-size: 24px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.vision-box p, .mission-box p {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #666;
+}
+
+/* Giá trị cốt lõi */
+.core-values {
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.core-values h2 {
+  font-size: 28px;
+  margin-bottom: 40px;
+  position: relative;
+  padding-bottom: 15px;
+  display: inline-block;
+  color: #333;
+}
+
+.core-values h2:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70px;
+  height: 3px;
+  background-color: #71cd14;
+}
+
+.value-item {
+  text-align: center;
+  padding: 30px 20px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+  height: 100%;
+}
+
+.value-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px;
+  height: 60px;
+  background-color: #71cd14;
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  border-radius: 50%;
+  margin: 0 auto 20px;
+}
+
+.value-item h4 {
+  font-size: 20px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.value-item p {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #666;
+}
+
+/* Thành tựu */
+.achievements {
+  margin: 60px 0;
+  background-color: #f8f9fa;
+  padding: 60px 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.achievements h2 {
+  font-size: 28px;
+  margin-bottom: 40px;
+  position: relative;
+  padding-bottom: 15px;
+  display: inline-block;
+  color: #333;
+}
+
+.achievements h2:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70px;
+  height: 3px;
+  background-color: #71cd14;
+}
+
+.achievement-item {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.achievement-number {
+  font-size: 36px;
+  font-weight: 700;
+  color: #71cd14;
+  margin-bottom: 10px;
+}
+
+.achievement-text {
+  font-size: 18px;
+  color: #555;
+}
+
+/* Đội ngũ */
+.our-team {
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.our-team h2 {
+  font-size: 28px;
+  margin-bottom: 40px;
+  position: relative;
+  padding-bottom: 15px;
+  display: inline-block;
+  color: #333;
+}
+
+.our-team h2:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70px;
+  height: 3px;
+  background-color: #71cd14;
+}
+
+.team-member {
+  margin-bottom: 30px;
+  background-color: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+  height: 100%;
+}
+
+.member-info {
+  padding: 25px 20px;
+  text-align: center;
+}
+
+.member-info h4 {
+  font-size: 20px;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.member-info span {
+  display: block;
+  font-size: 14px;
+  color: #71cd14;
+  margin-bottom: 15px;
+}
+
+.member-info p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #666;
+}
+
+/* Thông tin liên hệ */
+.contact-info {
+  background-color: #f8f9fa;
+  padding: 50px 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.contact-info h2 {
+  font-size: 28px;
+  margin-bottom: 40px;
+  position: relative;
+  padding-bottom: 15px;
+  display: inline-block;
+  color: #333;
+}
+
+.contact-info h2:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70px;
+  height: 3px;
+  background-color: #71cd14;
+}
+
+.contact-item {
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+  height: 100%;
+}
+
+.contact-item h4 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.contact-item p {
+  font-size: 16px;
+  color: #666;
+}
+
+/* Responsive */
+@media (max-width: 991px) {
+  .about-intro .about-content {
+    margin-bottom: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .about-banner {
+    padding: 40px 20px;
+  }
+  
+  .about-banner h1 {
+    font-size: 28px;
+  }
+  
+  .vision-mission, .core-values, .achievements, .our-team, .contact-info {
+    margin-bottom: 50px;
+  }
+  
+  .achievements {
+    padding: 40px 20px;
+  }
+  
+  .achievement-number {
+    font-size: 28px;
+  }
+  
+  .achievement-text {
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,14 @@
+.box-img-preview {
+    width: 80%; /* Giới hạn chiều rộng để không full */
+    max-width: 80%; /* Giới hạn kích thước tối đa */
+    height: auto;
+    margin: 20px auto; /* Căn giữa và thêm khoảng cách */
+    display: block;
+    background-size: contain; /* Hiển thị ảnh vừa với khung */
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 2px solid #ddd; /* Tạo viền giúp tách biệt hình ảnh */
+    padding: 10px; /* Khoảng cách giữa ảnh và viền */
+    border-radius: 10px; /* Bo góc cho đẹp hơn */
+  }
+  
